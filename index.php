@@ -11,6 +11,8 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
       <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
+	       <link rel="icon" href="img/favicon_io/favicon.ico" type="image/gif" sizes="16x16">
+
 </head>
 <body>
 
